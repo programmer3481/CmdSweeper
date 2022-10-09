@@ -1,0 +1,6 @@
+[submodule "clion"]
+	path = clion
+	url = https://github.com/Enhex/premake-clion.git
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/Enhex/premake-cmake.git
