@@ -131,7 +131,6 @@ namespace cmdSweeper {
 
         std::cout << "\x1b[2J";
         std::cout << "\x1b[?1049l";
-        std::cout << "hello outside alternate buffer!";
     }
 
     void CmdSweeper::printBorder() const {
